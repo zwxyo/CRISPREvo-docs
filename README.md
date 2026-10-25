@@ -15,7 +15,7 @@ python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-Open `http://127.0.0.1:8000/` in a browser. Run a strict production build before committing:
+Open `https://crisprevo.com/` in a browser. Run a strict production build before committing:
 
 ```bash
 python -m mkdocs build --strict
@@ -31,4 +31,3 @@ python -m mkdocs build --strict
 6. Add the published documentation URL and the deployed CRISPREvo web-app URL to `docs/index.md`.
 
 See `docs/maintainers/read-the-docs.md` for the full release and versioning workflow.
-
