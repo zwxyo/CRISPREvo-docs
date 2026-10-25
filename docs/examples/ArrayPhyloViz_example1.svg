@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="675" height="148" viewBox="0 0 675 148" role="group" aria-label="Integrated phylogenetic tree and CRISPR arrays" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<metadata id="crisprevo-composer">{
+  &quot;format&quot;: &quot;crisprevo-composer&quot;,
+  &quot;version&quot;: 1,
+  &quot;tree&quot;: {
+    &quot;id&quot;: &quot;n0&quot;,
+    &quot;name&quot;: &quot;&quot;,
+    &quot;length&quot;: null,
+    &quot;children&quot;: [
+      {
+        &quot;id&quot;: &quot;n1&quot;,
+        &quot;name&quot;: &quot;95&quot;,
+        &quot;length&quot;: 0.05,
+        &quot;children&quot;: [
+          {
+            &quot;id&quot;: &quot;n2&quot;,
+            &quot;name&quot;: &quot;strain_A&quot;,
+            &quot;length&quot;: 0.12,
+            &quot;children&quot;: []
+          },
+          {
+            &quot;id&quot;: &quot;n3&quot;,
+            &quot;name&quot;: &quot;strain_B&quot;,
+            &quot;length&quot;: 0.08,
+            &quot;children&quot;: []
+          }
+        ]
+      },
+      {
+        &quot;id&quot;: &quot;n4&quot;,
+        &quot;name&quot;: &quot;strain_C&quot;,
+        &quot;length&quot;: 0.18,
+        &quot;children&quot;: []
+      }
+    ]
+  },
+  &quot;arrays&quot;: [
+    {
+      &quot;id&quot;: &quot;a0&quot;,
+      &quot;name&quot;: &quot;strain_A&quot;,
+      &quot;spacers&quot;: [
+        &quot;1&quot;,
+        &quot;2&quot;,
+        &quot;3&quot;,
+        &quot;6&quot;,
+        &quot;7&quot;,
+        &quot;9&quot;
+      ],
+      &quot;leaf&quot;: &quot;strain_A&quot;,
+      &quot;reversed&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;a1&quot;,
+      &quot;name&quot;: &quot;strain_B&quot;,
+      &quot;spacers&quot;: [
+        &quot;1&quot;,
+        &quot;2&quot;,
+        &quot;4&quot;,
+        &quot;6&quot;,
+        &quot;8&quot;,
+        &quot;9&quot;
+      ],
+      &quot;leaf&quot;: &quot;strain_B&quot;,
+      &quot;reversed&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;a2&quot;,
+      &quot;name&quot;: &quot;strain_C&quot;,
+      &quot;spacers&quot;: [
+        &quot;10&quot;,
+        &quot;2&quot;,
+        &quot;4&quot;,
+        &quot;6&quot;,
+        &quot;8&quot;
+      ],
+      &quot;leaf&quot;: &quot;strain_C&quot;,
+      &quot;reversed&quot;: false
+    }
+  ],
+  &quot;colors&quot;: {
+    &quot;1&quot;: {
+      &quot;fill&quot;: &quot;#56b4e9&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;2&quot;: {
+      &quot;fill&quot;: &quot;#e69f00&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;3&quot;: {
+      &quot;fill&quot;: &quot;#009e73&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;4&quot;: {
+      &quot;fill&quot;: &quot;#cc79a7&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;6&quot;: {
+      &quot;fill&quot;: &quot;#0072b2&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;7&quot;: {
+      &quot;fill&quot;: &quot;#d55e00&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;8&quot;: {
+      &quot;fill&quot;: &quot;#b8c55a&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;9&quot;: {
+      &quot;fill&quot;: &quot;#688d99&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    },
+    &quot;10&quot;: {
+      &quot;fill&quot;: &quot;#d17c52&quot;,
+      &quot;stroke&quot;: &quot;#ffffff&quot;
+    }
+  },
+  &quot;nodeStyles&quot;: {},
+  &quot;settings&quot;: {
+    &quot;title&quot;: &quot;CRISPR array diversity&quot;,
+    &quot;treeWidth&quot;: 280,
+    &quot;labelWidth&quot;: 80,
+    &quot;arrayWidth&quot;: 220,
+    &quot;rowHeight&quot;: 36,
+    &quot;fontSize&quot;: 12,
+    &quot;branchWidth&quot;: 1.5,
+    &quot;branchColor&quot;: &quot;#436579&quot;,
+    &quot;layout&quot;: &quot;rectangular&quot;,
+    &quot;lengths&quot;: true,
+    &quot;align&quot;: &quot;right&quot;,
+    &quot;showSupport&quot;: true,
+    &quot;showIds&quot;: true,
+    &quot;showGuides&quot;: true,
+    &quot;showLegend&quot;: false,
+    &quot;showLinks&quot;: false
+  }
+}</metadata>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<path d="M294.444,30 H651" stroke="#dce6ea" stroke-dasharray="3 4" stroke-width="1" fill="none"/>
+<path d="M232.222,66 H651" stroke="#dce6ea" stroke-dasharray="3 4" stroke-width="1" fill="none"/>
+<path d="M310,102 H651" stroke="#dce6ea" stroke-dasharray="3 4" stroke-width="1" fill="none"/>
+<g ><title>strain_A · 1 leaf/leaves</title><circle cx="294.444" cy="30" r="3" fill="#436579" stroke="#ffffff" stroke-width="1"/>
+</g>
+<g ><title>strain_A</title><text x="320" y="34.2" fill="#203b48" font-weight="500">strain_A</text></g>
+<g ><title>strain_B · 1 leaf/leaves</title><circle cx="232.222" cy="66" r="3" fill="#436579" stroke="#ffffff" stroke-width="1"/>
+</g>
+<g ><title>strain_B</title><text x="320" y="70.2" fill="#203b48" font-weight="500">strain_B</text></g>
+<path d="M107.778,30 V66" stroke="#436579" stroke-width="1.5" fill="none"/>
+<g ><title>strain_A · branch length 0.12</title>
+<path d="M107.778,30 L294.444,30" stroke="#436579" stroke-width="1.5" fill="none"/></g>
+<g ><title>strain_B · branch length 0.08</title>
+<path d="M107.778,66 L232.222,66" stroke="#436579" stroke-width="1.5" fill="none"/></g>
+<g ><title>95 · 2 leaf/leaves</title><circle cx="107.778" cy="48" r="3" fill="#436579" stroke="#ffffff" stroke-width="1"/>
+<text x="112.778" y="41" font-size="10" fill="#71818b">95</text>
+</g>
+<g ><title>strain_C · 1 leaf/leaves</title><circle cx="310" cy="102" r="3" fill="#436579" stroke="#ffffff" stroke-width="1"/>
+</g>
+<g ><title>strain_C</title><text x="320" y="106.2" fill="#203b48" font-weight="500">strain_C</text></g>
+<path d="M30,48 V102" stroke="#436579" stroke-width="1.5" fill="none"/>
+<g ><title>95 · branch length 0.05</title>
+<path d="M30,48 L107.778,48" stroke="#436579" stroke-width="1.5" fill="none"/></g>
+<g ><title>strain_C · branch length 0.18</title>
+<path d="M30,102 L310,102" stroke="#436579" stroke-width="1.5" fill="none"/></g>
+<g ><title>n0 · 3 leaf/leaves</title><circle cx="30" cy="75" r="3" fill="#436579" stroke="#ffffff" stroke-width="1"/>
+</g>
+<g  ><title>strain_A · spacer 1</title><rect x="425" y="19.56" width="30.067" height="20.88" rx="4" fill="#56b4e9" stroke="#ffffff" stroke-width="1"/>
+<text x="440.033" y="33.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">1</text>
+</g>
+<g  ><title>strain_A · spacer 2</title><rect x="461.667" y="19.56" width="30.067" height="20.88" rx="4" fill="#e69f00" stroke="#ffffff" stroke-width="1"/>
+<text x="476.7" y="33.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">2</text>
+</g>
+<g  ><title>strain_A · spacer 3</title><rect x="498.333" y="19.56" width="30.067" height="20.88" rx="4" fill="#009e73" stroke="#ffffff" stroke-width="1"/>
+<text x="513.367" y="33.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">3</text>
+</g>
+<g  ><title>strain_A · spacer 6</title><rect x="535" y="19.56" width="30.067" height="20.88" rx="4" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+<text x="550.033" y="33.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">6</text>
+</g>
+<g  ><title>strain_A · spacer 7</title><rect x="571.667" y="19.56" width="30.067" height="20.88" rx="4" fill="#d55e00" stroke="#ffffff" stroke-width="1"/>
+<text x="586.7" y="33.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">7</text>
+</g>
+<g  ><title>strain_A · spacer 9</title><rect x="608.333" y="19.56" width="30.067" height="20.88" rx="4" fill="#688d99" stroke="#ffffff" stroke-width="1"/>
+<text x="623.367" y="33.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">9</text>
+</g>
+<g  ><title>strain_B · spacer 1</title><rect x="425" y="55.56" width="30.067" height="20.88" rx="4" fill="#56b4e9" stroke="#ffffff" stroke-width="1"/>
+<text x="440.033" y="69.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">1</text>
+</g>
+<g  ><title>strain_B · spacer 2</title><rect x="461.667" y="55.56" width="30.067" height="20.88" rx="4" fill="#e69f00" stroke="#ffffff" stroke-width="1"/>
+<text x="476.7" y="69.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">2</text>
+</g>
+<g  ><title>strain_B · spacer 4</title><rect x="498.333" y="55.56" width="30.067" height="20.88" rx="4" fill="#cc79a7" stroke="#ffffff" stroke-width="1"/>
+<text x="513.367" y="69.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">4</text>
+</g>
+<g  ><title>strain_B · spacer 6</title><rect x="535" y="55.56" width="30.067" height="20.88" rx="4" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+<text x="550.033" y="69.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">6</text>
+</g>
+<g  ><title>strain_B · spacer 8</title><rect x="571.667" y="55.56" width="30.067" height="20.88" rx="4" fill="#b8c55a" stroke="#ffffff" stroke-width="1"/>
+<text x="586.7" y="69.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">8</text>
+</g>
+<g  ><title>strain_B · spacer 9</title><rect x="608.333" y="55.56" width="30.067" height="20.88" rx="4" fill="#688d99" stroke="#ffffff" stroke-width="1"/>
+<text x="623.367" y="69.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">9</text>
+</g>
+<g  ><title>strain_C · spacer 10</title><rect x="461.667" y="91.56" width="30.067" height="20.88" rx="4" fill="#d17c52" stroke="#ffffff" stroke-width="1"/>
+<text x="476.7" y="105.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">10</text>
+</g>
+<g  ><title>strain_C · spacer 2</title><rect x="498.333" y="91.56" width="30.067" height="20.88" rx="4" fill="#e69f00" stroke="#ffffff" stroke-width="1"/>
+<text x="513.367" y="105.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">2</text>
+</g>
+<g  ><title>strain_C · spacer 4</title><rect x="535" y="91.56" width="30.067" height="20.88" rx="4" fill="#cc79a7" stroke="#ffffff" stroke-width="1"/>
+<text x="550.033" y="105.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">4</text>
+</g>
+<g  ><title>strain_C · spacer 6</title><rect x="571.667" y="91.56" width="30.067" height="20.88" rx="4" fill="#0072b2" stroke="#ffffff" stroke-width="1"/>
+<text x="586.7" y="105.5" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="600">6</text>
+</g>
+<g  ><title>strain_C · spacer 8</title><rect x="608.333" y="91.56" width="30.067" height="20.88" rx="4" fill="#b8c55a" stroke="#ffffff" stroke-width="1"/>
+<text x="623.367" y="105.5" font-size="10" text-anchor="middle" fill="#203b48" font-weight="600">8</text>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+:root {
+  --md-primary-fg-color: #167d73;
+  --md-primary-fg-color--light: #4ca298;
+  --md-primary-fg-color--dark: #0d5d56;
+  --md-accent-fg-color: #d77943;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-weight: 700;
+}
+
+.md-typeset .workflow-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+
+.md-typeset .workflow-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.65rem;
+  padding: 1rem;
+}
+
+.md-typeset .workflow-card > :first-child {
+  margin-top: 0;
+}
+
+.md-typeset .workflow-card > :last-child {
+  margin-bottom: 0;
+}
+
