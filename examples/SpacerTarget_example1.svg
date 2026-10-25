@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1412" height="667" viewBox="0 0 1412 667" role="img" version="1.1">
+  <title>SpacerTarget candidate spacer matches — vector table</title>
+  <desc>Editable vector recreation of the reference screenshot, showing page two of five and five visible matches from the supplied HTML.</desc>
+  <rect x="0" y="0" width="1412" height="667" fill="white" />
+  <rect x="20.5" y="14.5" width="16" height="16" fill="white" stroke="#8998a5" stroke-width="1" rx="2" />
+  <text x="49" y="29.2" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#344e60">Exclude source-accession matches</text>
+  <text x="318" y="29.2" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83">Reset filters</text>
+  <text x="1202" y="29.2" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#344e60">Sort</text>
+  <rect x="1240.5" y="4.5" width="159.5" height="38" fill="white" stroke="#d9e3eb" stroke-width="1" rx="5" />
+  <text x="1256" y="29.4" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Strain</text>
+  <path d="M1383 21 L1388 26 L1393 21" fill="none" stroke="#253b4d" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="15.5" y="64.5" width="1384.5" height="539" fill="white" stroke="#dce4e9" stroke-width="1" rx="8" />
+  <rect x="16" y="65" width="1366" height="55" fill="#f2f3f5" />
+  <path d="M24 65 L1382 65 L1382 120 L16 120 L16 73 Q16 65 24 65 Z" fill="#f2f3f5" />
+  <text x="32" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Strain / spacer</text>
+  <text x="226" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Target sequence</text>
+  <text x="533" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Type</text>
+  <text x="683" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Identity</text>
+  <text x="773" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Coverage</text>
+  <text x="870" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Mismatch / gap</text>
+  <text x="1001" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Target coordinates</text>
+  <text x="1217" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">E-value</text>
+  <text x="1294" y="94.5" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#31465a">Alignment</text>
+  <line x1="16" y1="121" x2="1382" y2="121" stroke="#e1e5eb" stroke-width="1" />
+  <rect x="16" y="207" width="1366" height="86" fill="#f3f4f6" />
+  <line x1="16" y1="207" x2="1382" y2="207" stroke="#e1e5eb" stroke-width="1" />
+  <line x1="16" y1="293" x2="1382" y2="293" stroke="#e1e5eb" stroke-width="1" />
+  <rect x="16" y="401" width="1366" height="108" fill="#f3f4f6" />
+  <line x1="16" y1="401" x2="1382" y2="401" stroke="#e1e5eb" stroke-width="1" />
+  <line x1="16" y1="509" x2="1382" y2="509" stroke="#e1e5eb" stroke-width="1" />
+  <text x="32" y="156" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#384a5e">strain_A</text>
+  <text x="32" y="183" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">CRISPR1 / spacer_1</text>
+  <text x="226" y="156" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#008778">OQ696809.1</text>
+  <text x="226" y="183" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Vector pSEVAUO-M21102</text>
+  <rect x="533" y="151.0" width="71" height="28" fill="#647b6c" />
+  <text x="541" y="170.0" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="white">unknown</text>
+  <rect x="671" y="150.5" width="62" height="29" fill="#e5e8ec" />
+  <rect x="769" y="150.5" width="63" height="29" fill="#e5e8ec" />
+  <text x="702" y="169.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="800.5" y="169.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="957" y="169.0" font-size="15" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">0 / 0</text>
+  <text x="1001" y="169.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a">4056–4087 (+)</text>
+  <text x="1236" y="169.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a" text-anchor="middle">6.2e-7</text>
+  <rect x="1294.5" y="145.5" width="59" height="37" fill="white" stroke="#d5e3e3" stroke-width="1" rx="5" />
+  <text x="1324" y="169.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83" text-anchor="middle">View</text>
+  <text x="32" y="242" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#384a5e">strain_A</text>
+  <text x="32" y="269" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">CRISPR2 / spacer_2</text>
+  <text x="226" y="242" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#008778">OR222804.1</text>
+  <text x="226" y="269" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Caudoviricetes sp.</text>
+  <rect x="533" y="237.0" width="96" height="28" fill="#3e7fb8" />
+  <text x="541" y="256.0" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="white">Virus / phage</text>
+  <rect x="671" y="236.5" width="62" height="29" fill="#e5e8ec" />
+  <rect x="769" y="236.5" width="63" height="29" fill="#e5e8ec" />
+  <text x="702" y="255.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">96.9%</text>
+  <text x="800.5" y="255.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="957" y="255.0" font-size="15" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">1 / 0</text>
+  <text x="1001" y="255.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a">10724–10755 (+)</text>
+  <text x="1236" y="255.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a" text-anchor="middle">1.5e-4</text>
+  <rect x="1294.5" y="231.5" width="59" height="37" fill="white" stroke="#d5e3e3" stroke-width="1" rx="5" />
+  <text x="1324" y="255.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83" text-anchor="middle">View</text>
+  <text x="32" y="329" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#384a5e">strain_A</text>
+  <text x="32" y="358" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">CRISPR2 / spacer_2</text>
+  <text x="226" y="329" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#008778">OZ184565.1</text>
+  <text x="226" y="358" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Salmonella enterica subsp. enterica serovar</text>
+  <text x="226" y="380" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Agona</text>
+  <rect x="533" y="334.0" width="94" height="28" fill="#8962a5" />
+  <text x="541" y="353.0" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="white">chromosome</text>
+  <rect x="671" y="333.5" width="62" height="29" fill="#e5e8ec" />
+  <rect x="769" y="333.5" width="63" height="29" fill="#e5e8ec" />
+  <text x="702" y="352.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">96.9%</text>
+  <text x="800.5" y="352.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="957" y="352.0" font-size="15" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">1 / 0</text>
+  <text x="1001" y="352.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a">1216221–1216252 (+)</text>
+  <text x="1236" y="352.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a" text-anchor="middle">1.5e-4</text>
+  <rect x="1294.5" y="328.5" width="59" height="37" fill="white" stroke="#d5e3e3" stroke-width="1" rx="5" />
+  <text x="1324" y="352.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83" text-anchor="middle">View</text>
+  <text x="32" y="437" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#384a5e">strain_A</text>
+  <text x="32" y="466" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">CRISPR2 / spacer_2</text>
+  <text x="226" y="437" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#008778">OZ184569.1</text>
+  <text x="226" y="466" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Salmonella enterica subsp. enterica serovar</text>
+  <text x="226" y="488" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Agona</text>
+  <rect x="533" y="442.0" width="94" height="28" fill="#8962a5" />
+  <text x="541" y="461.0" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="white">chromosome</text>
+  <rect x="671" y="441.5" width="62" height="29" fill="#e5e8ec" />
+  <rect x="769" y="441.5" width="63" height="29" fill="#e5e8ec" />
+  <text x="702" y="460.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">96.9%</text>
+  <text x="800.5" y="460.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="957" y="460.0" font-size="15" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">1 / 0</text>
+  <text x="1001" y="460.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a">2388029–2388060 (-)</text>
+  <text x="1236" y="460.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a" text-anchor="middle">1.5e-4</text>
+  <rect x="1294.5" y="436.5" width="59" height="37" fill="white" stroke="#d5e3e3" stroke-width="1" rx="5" />
+  <text x="1324" y="460.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83" text-anchor="middle">View</text>
+  <text x="32" y="544" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#384a5e">strain_A</text>
+  <text x="32" y="571" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">CRISPR2 / spacer_2</text>
+  <text x="226" y="544" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#008778">OZ185602.1</text>
+  <text x="226" y="571" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Salmonella enterica subsp. enterica serovar</text>
+  <text x="226" y="593" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">Agona</text>
+  <rect x="533" y="543.0" width="94" height="28" fill="#8962a5" />
+  <text x="541" y="562.0" font-size="13" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="white">chromosome</text>
+  <rect x="671" y="542.5" width="62" height="29" fill="#e5e8ec" />
+  <rect x="769" y="542.5" width="63" height="29" fill="#e5e8ec" />
+  <text x="702" y="561.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">96.9%</text>
+  <text x="800.5" y="561.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">100.0%</text>
+  <text x="957" y="561.0" font-size="15" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#31465a" text-anchor="middle">1 / 0</text>
+  <text x="1001" y="561.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a">1922944–1922975 (-)</text>
+  <text x="1236" y="561.0" font-size="14" font-weight="400" font-family="&quot;Courier New&quot;, Courier, monospace" fill="#31465a" text-anchor="middle">1.5e-4</text>
+  <rect x="1294.5" y="537.5" width="59" height="37" fill="white" stroke="#d5e3e3" stroke-width="1" rx="5" />
+  <text x="1324" y="561.0" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#008e83" text-anchor="middle">View</text>
+  <rect x="1382" y="65" width="17" height="537" fill="white" />
+  <path d="M1387 79 L1391 73 L1395 79 Z" fill="#8a8f93" />
+  <path d="M1387 588 L1391 594 L1395 588 Z" fill="#8a8f93" />
+  <rect x="1385" y="441" width="11" height="56" fill="#8b8d8d" rx="5.5" />
+  <rect x="15.5" y="64.5" width="1384.5" height="539" fill="none" stroke="#dce4e9" stroke-width="1" rx="8" />
+  <line x1="16" y1="120.5" x2="1382" y2="120.5" stroke="#e1e5eb" stroke-width="1" />
+  <text x="15" y="638" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#718596">206 matches · 4 spacer occurrences passing filters</text>
+  <text x="1179" y="638" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#00978a">← Previous</text>
+  <text x="1273" y="637" font-size="12" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#34475a">Page 2 of 5</text>
+  <text x="1352" y="638" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#00978a">Next →</text>
+</svg>
