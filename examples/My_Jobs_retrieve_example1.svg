@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1482" height="358"
+     viewBox="0 0 1482 358" version="1.1" role="img">
+  <title>CRISPREvo My Jobs — Retrieve a job</title>
+  <desc>Editable vector reproduction of the My Jobs heading and Retrieve a job form shown in the reference image.</desc>
+
+  <rect x="0" y="0" width="1482" height="358" fill="#ffffff"/>
+
+  <g id="my-jobs-heading" font-family="Arial, Helvetica, sans-serif">
+    <text x="17" y="67" font-size="50" font-weight="700" fill="#203c4b">My Jobs</text>
+  </g>
+
+  <g id="retrieve-job-panel" font-family="Arial, Helvetica, sans-serif">
+    <rect x="17.5" y="128.5" width="1450" height="217"
+          rx="12" fill="#f5f6f7" stroke="#dce3e7" stroke-width="1"/>
+
+    <text x="48" y="184" font-size="22" font-weight="700" fill="#203b4d">Retrieve a job</text>
+    <text x="48" y="221" font-size="17" font-weight="400" fill="#71879a">Paste a private results link or full Job ID. To import an exported list, paste one link per line.</text>
+
+    <g id="job-link-input">
+      <rect x="48.5" y="249.5" width="1254.5" height="59"
+            rx="6" fill="#ffffff" stroke="#d1dfe7" stroke-width="1"/>
+      <text x="67" y="285" font-size="17" font-weight="400" fill="#9aafbf">Paste a results link or Job ID...</text>
+      <path d="M1292 302 L1298 296 M1295 305 L1300 300" fill="none"
+            stroke="#5c6267" stroke-width="1" stroke-linecap="round"/>
+    </g>
+
+    <g id="retrieve-button">
+      <rect x="1319" y="249" width="118" height="60" rx="6" fill="#00978c"/>
+      <text x="1378" y="287" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">Retrieve</text>
+    </g>
+  </g>
+</svg>
