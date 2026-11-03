@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1457" height="341" viewBox="0 0 1457 341" version="1.1" role="img">
+  <title>CRISPRPhylo — Tree inference configuration</title>
+  <desc>Editable vector rendering of the configuration panel shown in the supplied reference image: GraphMSA selected, repeat grouping distance zero, and array tree output enabled.</desc>
+
+  <rect x="0" y="0" width="1457" height="341" fill="#ffffff"/>
+
+  <!-- Panel 1: Tree inference method -->
+  <g id="tree-inference-method">
+    <rect x="9" y="14" width="778" height="172" rx="8" fill="#f4f5f6"/>
+    <text x="26" y="53" fill="#637d8c" font-family="Arial, Helvetica, sans-serif"
+          font-size="17" font-weight="400" letter-spacing="1.4">TREE INFERENCE METHOD</text>
+
+    <rect x="26" y="75" width="133" height="55" rx="6" fill="#00887d"/>
+    <text x="92.5" y="111" fill="#ffffff" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">GraphMSA</text>
+
+    <rect x="169" y="75" width="166" height="55" rx="6" fill="#e0f2f1"/>
+    <text x="252" y="111" fill="#00877d" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CRISPRFormer</text>
+  </g>
+
+  <!-- Panel 2: Repeat grouping distance -->
+  <g id="repeat-grouping-distance">
+    <rect x="804" y="14" width="648" height="172" rx="8" fill="#f4f5f6"/>
+    <text x="822" y="53" fill="#637d8c" font-family="Arial, Helvetica, sans-serif"
+          font-size="17" font-weight="400" letter-spacing="1.35">REPEAT GROUPING DISTANCE</text>
+
+    <rect x="822.5" y="75.5" width="612" height="60" rx="6"
+          fill="#ffffff" stroke="#d8e0e5" stroke-width="1"/>
+    <text x="840" y="113" fill="#213d50" font-family="Arial, Helvetica, sans-serif"
+          font-size="20" font-weight="400">0</text>
+    <text x="822" y="160" fill="#213d50" font-family="Arial, Helvetica, sans-serif"
+          font-size="17" font-weight="400">Maximum repeat edit distance. 0 groups identical repeats only.</text>
+  </g>
+
+  <!-- Panel 3: Tree output options -->
+  <g id="tree-outputs">
+    <rect x="9" y="203" width="1443" height="127" rx="8" fill="#f4f5f6"/>
+    <text x="26" y="242" fill="#637d8c" font-family="Arial, Helvetica, sans-serif"
+          font-size="17" font-weight="400" letter-spacing="1.4">TREE OUTPUTS</text>
+
+    <rect x="26" y="257" width="15" height="15" rx="2" fill="#00887d"/>
+    <path d="M29.5 264.1 L32.7 267.3 L38.0 260.4" fill="none"
+          stroke="#ffffff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="52" y="273" fill="#213d50" font-family="Arial, Helvetica, sans-serif"
+          font-size="20" font-weight="400">Also build array trees</text>
+
+    <text x="26" y="305" fill="#213d50" font-family="Arial, Helvetica, sans-serif"
+          font-size="17" font-weight="400">Build strain and array trees. Array trees are available as a ZIP download only, without previews.</text>
+  </g>
+</svg>
